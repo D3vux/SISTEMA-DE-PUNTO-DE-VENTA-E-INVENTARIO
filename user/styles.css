@@ -1,0 +1,26 @@
+
+#colum1{
+    width: 200px;
+    height: 200px;
+      margin-top: 60px;
+      
+}
+#colum2{
+    position: relative;
+    top: 40px; /* Desplaza el div hacia abajo 50px */
+    background-color: rgb(254, 255, 255);
+      
+      width: 680px;
+      height: 450px;
+      margin-left: 820px;
+      margin-top: 20px;
+}
+.paginawtion {
+  justify-content: center;
+}
+body {
+  zoom: 0.9; /* 90% */
+}
+.col-lg-3 {
+  width: 22.00%; /* Calculado como 100% / 12 * 2.5 */
+}
